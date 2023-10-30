@@ -447,7 +447,7 @@ GEM
     mutex_m (0.1.2)
     mysql2 (0.5.5)
     naught (1.1.0)
-    net-imap (0.4.2)
+    net-imap (0.4.3)
       date
       net-protocol
     net-pop (0.1.2)
