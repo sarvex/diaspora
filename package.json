@@ -15,7 +15,7 @@
     "jquery": "3.7.1",
     "jquery-placeholder": "2.3.1",
     "jquery.are-you-sure": "1.9.0",
-    "markdown-it": "13.0.2",
+    "markdown-it": "14.0.0",
     "markdown-it-diaspora-mention": "^1.2.0",
     "markdown-it-footnote": "3.0.3",
     "markdown-it-for-inline": "2.0.1",
