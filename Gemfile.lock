@@ -454,7 +454,7 @@ GEM
       timeout
     net-smtp (0.4.0)
       net-protocol
-    nio4r (2.6.0)
+    nio4r (2.7.0)
     nokogiri (1.16.0)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
@@ -546,7 +546,7 @@ GEM
     psych (5.1.2)
       stringio
     public_suffix (5.0.4)
-    puma (6.4.0)
+    puma (6.4.2)
       nio4r (~> 2.0)
     raabro (1.4.0)
     racc (1.7.3)
@@ -898,7 +898,7 @@ DEPENDENCIES
   pronto-scss (= 0.11.0)
   pry
   pry-byebug
-  puma (= 6.4.0)
+  puma (= 6.4.2)
   rack-cors (= 2.0.1)
   rack-google-analytics (= 1.2.0)
   rack-piwik (= 0.3.0)
